@@ -1,0 +1,37 @@
+# tugas-pak-herfan
+SEJARAH HELLO WORLD DAN KENAPA PERTAMA KALI BELAJAR PL HARUS MENGGUNAKAN HELLO WORLD
+Sejarahnya ada pada orang yang pertama kali menggunakan program hello world dia adalah Brian Kernighan pada tahun 1972, katanya dia "ingatan saya sudah sangat suram sekarang", intinya dia menonton kartun yang menampilkan seekor ayam dan telur, ketika telur itu menetas langsung mengatakan "Hello World"
+ARTI DARI PRINT DI PYTHON
+Print itu sebuah function / fungsi yang digunakan untuk mencetak output pada program
+contohnya : print ("Hello Jussy")
+            - output : Hello Jussy
+Kenapa gak pake Hello world bang? Bosan Hello World mulu.
+
+ARTI PRINT HELLO WORLD
+Arti dari hello world itu adalah halo dunia (menyapa satu dunia)
+Kenapa kita harus memulai program dengan hello world? , karena hello world sangat rekomended bagi pemula
+semua programmer berawal dari Hello World (menyapa dunia)
+CARA EKSEKUSI MENGGUNAKAN TERMINAL DAN VSCODE
+Cara mengeksekusi menggunakan terminal
+
+pertama, buat program. contoh dibawah ini
+Screenshot (18)
+
+- kedua, anda bisa klik kanan, lalu klik "run python file in Terminal atau (SHIFT+ENTER)
+Annotation 2021-10-23 043236
+
+- ketiga, output
+Annotation 2021-10-23 043829
+
+Cara mengeksekusi dengan vscode
+
+Pertama, buat program. contohnyanya dibawah ini
+Screenshot (18)
+
+- kedua, untuk merunningnya klik kanan kemudian pilih ( run code ) atau cara simpelnya ( CTRL+ALT+N )
+Annotation 2021-10-23 050132
+
+- ketiga, output
+Annotation 2021-10-23 050212
+
+SELESAI !!!
